@@ -1,4 +1,4 @@
-package ttt.ttt.ttt;
+package com.edu.home;
 
 import java.text.DateFormat;
 import java.util.Date;
